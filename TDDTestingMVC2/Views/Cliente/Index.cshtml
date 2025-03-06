@@ -1,0 +1,68 @@
+﻿@model IEnumerable<TDDTestingMVC2.Data.Cliente>
+
+
+@{
+    ViewData["Title"] = "Lista de Clientes";
+}
+
+<button>
+    <i class="fa-solid fa-bars"></i>
+</button>
+<h1>Clientes</h1>
+
+
+<div class="card">
+    <div class="card-header">
+        Cliente
+    </div>
+    <div class="card-body">
+        <h5 class="card-title">Lista de clientes</h5>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">@Html.DisplayNameFor(model => model.Codigo)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.Cedula)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.Apellidos)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.Nombres)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.FechaNacimiento)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.Mail)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.Telefono)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.Direccion)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.Estado)</th>
+                    <th scope="col">Acciones</th> <!-- Nueva columna para botones -->
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.Codigo)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Cedula)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Apellidos)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Nombres)</td>
+                        <td>@Html.DisplayFor(modelItem => item.FechaNacimiento)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Mail)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Telefono)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Direccion)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Estado)</td>
+                        <td>
+                            <a class="btn btn-warning" asp-action="Edit" asp-route-codigo="@item.Codigo">
+                                <i class="fa-solid fa-user-pen"></i> Editar
+                            </a>
+
+                            <a class="btn btn-danger" asp-action="Delete" asp-route-codigo="@item.Codigo">
+                                <i class="fa-solid fa-user-xmark"></i> Eliminar
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <p class="text-center">
+            <a class="btn btn-primary" asp-action="Create">
+                <i class="fa-solid fa-user-plus"></i> Crear Cliente
+            </a>
+        </p>
+    </div>
+</div>

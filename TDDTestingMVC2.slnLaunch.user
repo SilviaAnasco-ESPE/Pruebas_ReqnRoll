@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "TDDTestingMVC2\\TDDTestingMVC2.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TestingCliente\\TestingCliente.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

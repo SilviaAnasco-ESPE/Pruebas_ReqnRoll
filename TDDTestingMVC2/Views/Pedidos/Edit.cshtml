@@ -1,0 +1,51 @@
+﻿@model TDDTestingMVC2.Data.Pedidos
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Editar Cliente</h1>
+
+<div class="card">
+    <div class="card-header">
+        Cliente
+    </div>
+    <div class="card-body">
+        <h5 class="card-title">Edición de clientes</h5>
+
+        <form class="row g-3 needs-validation" asp-action="Edit" method="post">
+            <input type="hidden" asp-for="PedidoID" />
+
+            <div class="col-md-4">
+                <label asp-for="ClienteID" class="form-label">Cliente ID</label>
+                <input asp-for="ClienteID" class="form-control" id="ClienteID" name="ClienteID">
+                <span class="text-danger" asp-validation-for="ClienteID" id="clienteIdError" name="clienteIdError"></span>
+            </div>
+
+            <div class="col-md-4">
+                <label asp-for="Monto" class="form-label">Monto</label>
+                <input asp-for="Monto" class="form-control" id="Monto" name="Monto">
+                <span class="text-danger" asp-validation-for="Monto" id="montoError" name="montoError"></span>
+            </div>
+            <div class="col-md-4">
+                <label asp-for="Estado" class="form-label">Estado</label>
+                <select asp-for="Estado" class="form-select" id="Estado" name="Estado">
+                    <option value="Pendiente">Pendiente</option>
+                    <option value="Completado">Completado</option>
+                </select>
+                <span class="text-danger" asp-validation-for="Estado" id="estadoError" name="estadoError"></span>
+            </div>
+
+            <div class="col-12">
+                <button class="btn btn-primary" type="submit">Guardar Cambios</button>
+            </div>
+        </form>
+
+        <p class="text-center mt-3">
+            <a class="btn btn-secondary" asp-action="Index">
+                <i class="fa-solid fa-arrow-rotate-left"></i> Regresar
+            </a>
+        </p>
+    </div>
+</div>
+
+

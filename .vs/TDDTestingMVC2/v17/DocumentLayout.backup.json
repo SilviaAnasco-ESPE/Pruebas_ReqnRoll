@@ -1,0 +1,473 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DF932E-B78D-4D52-B4A3-7FE73F40C0B3}|ReqnrollTestProject\\ReqnrollTestProject.csproj|c:\\users\\user\\downloads\\sextosemestre\\pruebas\\practicas\\tddtestingmvc2\\reqnrolltestproject\\hocks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DF932E-B78D-4D52-B4A3-7FE73F40C0B3}|ReqnrollTestProject\\ReqnrollTestProject.csproj|solutionrelative:reqnrolltestproject\\hocks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DF932E-B78D-4D52-B4A3-7FE73F40C0B3}|ReqnrollTestProject\\ReqnrollTestProject.csproj|c:\\users\\user\\downloads\\sextosemestre\\pruebas\\practicas\\tddtestingmvc2\\reqnrolltestproject\\reports\\extentreportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DF932E-B78D-4D52-B4A3-7FE73F40C0B3}|ReqnrollTestProject\\ReqnrollTestProject.csproj|solutionrelative:reqnrolltestproject\\reports\\extentreportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DF932E-B78D-4D52-B4A3-7FE73F40C0B3}|ReqnrollTestProject\\ReqnrollTestProject.csproj|c:\\users\\user\\downloads\\sextosemestre\\pruebas\\practicas\\tddtestingmvc2\\reqnrolltestproject\\utilities\\webdrivermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DF932E-B78D-4D52-B4A3-7FE73F40C0B3}|ReqnrollTestProject\\ReqnrollTestProject.csproj|solutionrelative:reqnrolltestproject\\utilities\\webdrivermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DF932E-B78D-4D52-B4A3-7FE73F40C0B3}|ReqnrollTestProject\\ReqnrollTestProject.csproj|c:\\users\\user\\downloads\\sextosemestre\\pruebas\\practicas\\tddtestingmvc2\\reqnrolltestproject\\stepdefinitions\\pedidocrearstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DF932E-B78D-4D52-B4A3-7FE73F40C0B3}|ReqnrollTestProject\\ReqnrollTestProject.csproj|solutionrelative:reqnrolltestproject\\stepdefinitions\\pedidocrearstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DF932E-B78D-4D52-B4A3-7FE73F40C0B3}|ReqnrollTestProject\\ReqnrollTestProject.csproj|c:\\users\\user\\downloads\\sextosemestre\\pruebas\\practicas\\tddtestingmvc2\\reqnrolltestproject\\features\\pedidoeditar.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F9DF932E-B78D-4D52-B4A3-7FE73F40C0B3}|ReqnrollTestProject\\ReqnrollTestProject.csproj|solutionrelative:reqnrolltestproject\\features\\pedidoeditar.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DF932E-B78D-4D52-B4A3-7FE73F40C0B3}|ReqnrollTestProject\\ReqnrollTestProject.csproj|c:\\users\\user\\downloads\\sextosemestre\\pruebas\\practicas\\tddtestingmvc2\\reqnrolltestproject\\stepdefinitions\\pedidoeditarstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DF932E-B78D-4D52-B4A3-7FE73F40C0B3}|ReqnrollTestProject\\ReqnrollTestProject.csproj|solutionrelative:reqnrolltestproject\\stepdefinitions\\pedidoeditarstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DF932E-B78D-4D52-B4A3-7FE73F40C0B3}|ReqnrollTestProject\\ReqnrollTestProject.csproj|c:\\users\\user\\downloads\\sextosemestre\\pruebas\\practicas\\tddtestingmvc2\\reqnrolltestproject\\features\\pedidocrear.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F9DF932E-B78D-4D52-B4A3-7FE73F40C0B3}|ReqnrollTestProject\\ReqnrollTestProject.csproj|solutionrelative:reqnrolltestproject\\features\\pedidocrear.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|c:\\users\\user\\downloads\\sextosemestre\\pruebas\\practicas\\tddtestingmvc2\\tddtestingmvc2\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|solutionrelative:tddtestingmvc2\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|c:\\users\\user\\downloads\\sextosemestre\\pruebas\\practicas\\tddtestingmvc2\\tddtestingmvc2\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|solutionrelative:tddtestingmvc2\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|c:\\users\\user\\downloads\\sextosemestre\\pruebas\\practicas\\tddtestingmvc2\\tddtestingmvc2\\models\\clientedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|solutionrelative:tddtestingmvc2\\models\\clientedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|c:\\users\\user\\downloads\\sextosemestre\\pruebas\\practicas\\tddtestingmvc2\\tddtestingmvc2\\models\\pedidosdataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|solutionrelative:tddtestingmvc2\\models\\pedidosdataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|c:\\users\\user\\downloads\\sextosemestre\\pruebas\\practicas\\tddtestingmvc2\\tddtestingmvc2\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|solutionrelative:tddtestingmvc2\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|c:\\users\\user\\downloads\\sextosemestre\\pruebas\\practicas\\tddtestingmvc2\\tddtestingmvc2\\views\\pedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|solutionrelative:tddtestingmvc2\\views\\pedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|c:\\users\\user\\downloads\\sextosemestre\\pruebas\\practicas\\tddtestingmvc2\\tddtestingmvc2\\views\\pedidos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|solutionrelative:tddtestingmvc2\\views\\pedidos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|c:\\users\\user\\downloads\\sextosemestre\\pruebas\\practicas\\tddtestingmvc2\\tddtestingmvc2\\views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|solutionrelative:tddtestingmvc2\\views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|c:\\users\\user\\downloads\\sextosemestre\\pruebas\\practicas\\tddtestingmvc2\\tddtestingmvc2\\views\\pedidos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|solutionrelative:tddtestingmvc2\\views\\pedidos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|c:\\users\\user\\downloads\\sextosemestre\\pruebas\\practicas\\tddtestingmvc2\\tddtestingmvc2\\data\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|solutionrelative:tddtestingmvc2\\data\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|c:\\users\\user\\downloads\\sextosemestre\\pruebas\\practicas\\tddtestingmvc2\\tddtestingmvc2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|solutionrelative:tddtestingmvc2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|c:\\users\\user\\downloads\\sextosemestre\\pruebas\\practicas\\tddtestingmvc2\\tddtestingmvc2\\data\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|solutionrelative:tddtestingmvc2\\data\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|c:\\users\\user\\downloads\\sextosemestre\\pruebas\\practicas\\tddtestingmvc2\\tddtestingmvc2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|solutionrelative:tddtestingmvc2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|c:\\users\\user\\downloads\\sextosemestre\\pruebas\\practicas\\tddtestingmvc2\\tddtestingmvc2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|solutionrelative:tddtestingmvc2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|c:\\users\\user\\downloads\\sextosemestre\\pruebas\\practicas\\tddtestingmvc2\\tddtestingmvc2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|solutionrelative:tddtestingmvc2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|c:\\users\\user\\downloads\\sextosemestre\\pruebas\\practicas\\tddtestingmvc2\\tddtestingmvc2\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|solutionrelative:tddtestingmvc2\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|c:\\users\\user\\downloads\\sextosemestre\\pruebas\\practicas\\tddtestingmvc2\\tddtestingmvc2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED38D74-D024-4B4A-A896-A77244C06F98}|TDDTestingMVC2\\TDDTestingMVC2.csproj|solutionrelative:tddtestingmvc2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99AFA6B5-01E9-46FB-B5C8-222DCE142C0D}|TestingCliente\\TestingCliente.csproj|c:\\users\\user\\downloads\\sextosemestre\\pruebas\\practicas\\tddtestingmvc2\\testingcliente\\testcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99AFA6B5-01E9-46FB-B5C8-222DCE142C0D}|TestingCliente\\TestingCliente.csproj|solutionrelative:testingcliente\\testcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PedidoCrearStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\ReqnrollTestProject\\StepDefinitions\\PedidoCrearStepDefinitions.cs",
+              "RelativeDocumentMoniker": "ReqnrollTestProject\\StepDefinitions\\PedidoCrearStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\ReqnrollTestProject\\StepDefinitions\\PedidoCrearStepDefinitions.cs",
+              "RelativeToolTip": "ReqnrollTestProject\\StepDefinitions\\PedidoCrearStepDefinitions.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T18:26:04.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExtentReportManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\ReqnrollTestProject\\Reports\\ExtentReportManager.cs",
+              "RelativeDocumentMoniker": "ReqnrollTestProject\\Reports\\ExtentReportManager.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\ReqnrollTestProject\\Reports\\ExtentReportManager.cs",
+              "RelativeToolTip": "ReqnrollTestProject\\Reports\\ExtentReportManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:27:45.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebDriverManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\ReqnrollTestProject\\Utilities\\WebDriverManager.cs",
+              "RelativeDocumentMoniker": "ReqnrollTestProject\\Utilities\\WebDriverManager.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\ReqnrollTestProject\\Utilities\\WebDriverManager.cs",
+              "RelativeToolTip": "ReqnrollTestProject\\Utilities\\WebDriverManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:28:18.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hooks.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\ReqnrollTestProject\\Hocks\\Hooks.cs",
+              "RelativeDocumentMoniker": "ReqnrollTestProject\\Hocks\\Hooks.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\ReqnrollTestProject\\Hocks\\Hooks.cs*",
+              "RelativeToolTip": "ReqnrollTestProject\\Hocks\\Hooks.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:28:01.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PedidoEditar.feature",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\ReqnrollTestProject\\Features\\PedidoEditar.feature",
+              "RelativeDocumentMoniker": "ReqnrollTestProject\\Features\\PedidoEditar.feature",
+              "ToolTip": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\ReqnrollTestProject\\Features\\PedidoEditar.feature",
+              "RelativeToolTip": "ReqnrollTestProject\\Features\\PedidoEditar.feature",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBIAAAA8AAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-02-27T19:31:42.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PedidoEditarStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\ReqnrollTestProject\\StepDefinitions\\PedidoEditarStepDefinitions.cs",
+              "RelativeDocumentMoniker": "ReqnrollTestProject\\StepDefinitions\\PedidoEditarStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\ReqnrollTestProject\\StepDefinitions\\PedidoEditarStepDefinitions.cs",
+              "RelativeToolTip": "ReqnrollTestProject\\StepDefinitions\\PedidoEditarStepDefinitions.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAqwJkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:35:33.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PedidoCrear.feature",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\ReqnrollTestProject\\Features\\PedidoCrear.feature",
+              "RelativeDocumentMoniker": "ReqnrollTestProject\\Features\\PedidoCrear.feature",
+              "ToolTip": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\ReqnrollTestProject\\Features\\PedidoCrear.feature",
+              "RelativeToolTip": "ReqnrollTestProject\\Features\\PedidoCrear.feature",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-02-27T18:25:16.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Views\\Pedidos\\Index.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC2\\Views\\Pedidos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Views\\Pedidos\\Index.cshtml",
+              "RelativeToolTip": "TDDTestingMVC2\\Views\\Pedidos\\Index.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvygAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T16:44:55.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Pedidos.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Data\\Pedidos.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC2\\Data\\Pedidos.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Data\\Pedidos.cs",
+              "RelativeToolTip": "TDDTestingMVC2\\Data\\Pedidos.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:26:17.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC2\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "TDDTestingMVC2\\Controllers\\PedidosController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAlwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:40:13.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PedidosDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Models\\PedidosDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC2\\Models\\PedidosDataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Models\\PedidosDataAccessLayer.cs",
+              "RelativeToolTip": "TDDTestingMVC2\\Models\\PedidosDataAccessLayer.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAQwHIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:21:09.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Views\\Pedidos\\Create.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC2\\Views\\Pedidos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Views\\Pedidos\\Create.cshtml",
+              "RelativeToolTip": "TDDTestingMVC2\\Views\\Pedidos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T17:07:33.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Views\\Pedidos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC2\\Views\\Pedidos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Views\\Pedidos\\Edit.cshtml",
+              "RelativeToolTip": "TDDTestingMVC2\\Views\\Pedidos\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T19:04:42.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC2\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "TDDTestingMVC2\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T17:18:04.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TDDTestingMVC2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T17:18:28.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TDDTestingMVC2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T17:18:09.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TDDTestingMVC2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T16:45:27.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Views\\Cliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC2\\Views\\Cliente\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Views\\Cliente\\Index.cshtml",
+              "RelativeToolTip": "TDDTestingMVC2\\Views\\Cliente\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwCYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T16:45:37.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC2\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "TDDTestingMVC2\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:33:30.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TestCliente.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TestingCliente\\TestCliente.cs",
+              "RelativeDocumentMoniker": "TestingCliente\\TestCliente.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TestingCliente\\TestCliente.cs",
+              "RelativeToolTip": "TestingCliente\\TestCliente.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:20:24.755Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "4b38f00f-36bb-4601-8562-a3eed9531eba",
+        "Display": 0,
+        "X": 348,
+        "Y": 269,
+        "Width": 1023,
+        "Height": 456,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC2\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "TDDTestingMVC2\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAADQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:38:53.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Views\\Cliente\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC2\\Views\\Cliente\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Views\\Cliente\\Edit.cshtml",
+              "RelativeToolTip": "TDDTestingMVC2\\Views\\Cliente\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T17:24:18.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Views\\Cliente\\Create.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC2\\Views\\Cliente\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Views\\Cliente\\Create.cshtml",
+              "RelativeToolTip": "TDDTestingMVC2\\Views\\Cliente\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T17:07:53.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClienteDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Models\\ClienteDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC2\\Models\\ClienteDataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Models\\ClienteDataAccessLayer.cs",
+              "RelativeToolTip": "TDDTestingMVC2\\Models\\ClienteDataAccessLayer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAHsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T20:53:34.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Data\\Cliente.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC2\\Data\\Cliente.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\SextoSemestre\\Pruebas\\Practicas\\TDDTestingMVC2\\TDDTestingMVC2\\Data\\Cliente.cs",
+              "RelativeToolTip": "TDDTestingMVC2\\Data\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:26:22.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

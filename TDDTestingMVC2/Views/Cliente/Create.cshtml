@@ -1,0 +1,69 @@
+﻿@model TDDTestingMVC2.Data.Cliente
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Crear Clientes</h1>
+
+<div class="card">
+    <div class="card-header">
+        Cliente
+    </div>
+    <div class="card-body">
+        <h5 class="card-title">Creacion de clientes</h5>
+
+        <form class="row g-3 needs-validation" asp-action="Create" asp-controller="Cliente" method="post">
+            <div class="col-md-4">
+                <label asp-for="Cedula" class="form-label">Cédula</label>
+                <input asp-for="Cedula" class="form-control" id="Cedula" name="Cedula">
+                <span class="text-danger" asp-validation-for="Cedula" id="cedulaError" name="cedulaError"></span>
+            </div>
+            <div class="col-md-4">
+                <label asp-for="Apellidos" class="form-label">Apellidos</label>
+                <input asp-for="Apellidos" class="form-control" id="Apellidos" name="Apellidos">
+                <span class="text-danger" asp-validation-for="Apellidos" id="apellidosError" name="apellidosError"></span>
+            </div>
+            <div class="col-md-4">
+                <label asp-for="Nombres" class="form-label">Nombres</label>
+                <input asp-for="Nombres" class="form-control" id="Nombres" name="Nombres">
+                <span class="text-danger" asp-validation-for="Nombres" id="nombresError" name="nombresError"></span>
+            </div>
+            <div class="col-md-4">
+                <label asp-for="FechaNacimiento" class="form-label">Fecha de Nacimiento</label>
+                <input asp-for="FechaNacimiento" type="date" class="form-control" id="FechaNacimiento" name="FechaNacimiento">
+                <span class="text-danger" asp-validation-for="FechaNacimiento" id="fechaNacimientoError" name="fechaNacimientoError"></span>
+            </div>
+            <div class="col-md-4">
+                <label asp-for="Mail" class="form-label">Mail</label>
+                <input asp-for="Mail" class="form-control" id="Mail" name="Mail">
+                <span class="text-danger" asp-validation-for="Mail" id="mailError" name="mailError"></span>
+            </div>
+            <div class="col-md-4">
+                <label asp-for="Telefono" class="form-label">Teléfono</label>
+                <input asp-for="Telefono" class="form-control" id="Telefono" name="Telefono">
+                <span class="text-danger" asp-validation-for="Telefono" id="telefonoError" name="telefonoError"></span>
+            </div>
+            <div class="col-md-8">
+                <label asp-for="Direccion" class="form-label">Dirección</label>
+                <input asp-for="Direccion" class="form-control" id="Direccion" name="Direccion">
+                <span class="text-danger" asp-validation-for="Direccion" id="direccionError" name="direccionError"></span>
+            </div>
+            <div class="col-4">
+                <div class="form-check">
+                    <input asp-for="Estado" class="form-check-input" type="checkbox">
+                    <label class="form-check-label" asp-for="Estado">Estado</label>
+                </div>
+            </div>
+            <div class="col-12">
+                <button class="btn btn-success" type="submit">Guardar</button>
+            </div>
+        </form>
+        <p class="text-center">
+            <a class="btn btn-secondary" asp-action="Index">
+                <i class="fa-solid fa-arrow-rotate-left"></i> Regresar
+            </a>
+        </p>
+
+    </div>
+</div>

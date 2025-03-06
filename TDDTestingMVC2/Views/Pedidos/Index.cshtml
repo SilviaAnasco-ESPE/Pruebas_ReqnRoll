@@ -1,0 +1,61 @@
+﻿@model IEnumerable<TDDTestingMVC2.Data.Pedidos>
+
+
+@{
+    ViewData["Title"] = "Lista de Pedidos";
+}
+
+<button>
+    <i class="fa-solid fa-bars"></i>
+</button>
+<h1>Pedidos</h1>
+
+
+<div class="card">
+    <div class="card-header">
+        Cliente
+    </div>
+    <div class="card-body">
+        <h5 class="card-title">Lista de pedidos</h5>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">@Html.DisplayNameFor(model => model.PedidoID)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.ClienteID)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.FechaPedido)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.Monto)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.Estado)</th>
+                    <th scope="col">Acciones</th> <!-- Nueva columna para botones -->
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.PedidoID)</td>
+                        <td>@Html.DisplayFor(modelItem => item.ClienteID)</td>
+                        <td>@Html.DisplayFor(modelItem => item.FechaPedido)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Monto)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Estado)</td>
+                        <td>
+                            <a class="btn btn-warning" asp-action="Edit" asp-route-codigo="@item.PedidoID">
+                                <i class="fa-solid fa-user-pen"></i> Editar
+                            </a>
+
+                            <a class="btn btn-danger" asp-action="Delete" asp-route-codigo="@item.PedidoID">
+                                <i class="fa-solid fa-user-xmark"></i> Eliminar
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <p class="text-center">
+            <a class="btn btn-primary" asp-action="Create">
+                <i class="fa-solid fa-user-plus"></i> Crear Pedido
+            </a>
+        </p>
+    </div>
+</div>
+

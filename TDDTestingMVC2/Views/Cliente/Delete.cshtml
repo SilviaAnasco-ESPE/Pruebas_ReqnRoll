@@ -1,0 +1,49 @@
+﻿@model TDDTestingMVC2.Data.Cliente
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Eliminar Cliente</h1>
+
+<div class="card">
+    <div class="card-header bg-danger text-white">
+        Confirmar Eliminación
+    </div>
+    <div class="card-body">
+        <h5 class="card-title">¿Estás seguro de que deseas eliminar este cliente?</h5>
+
+        <dl class="row">
+            <dt class="col-sm-4">Cédula</dt>
+            <dd class="col-sm-8">@Model.Cedula</dd>
+
+            <dt class="col-sm-4">Apellidos</dt>
+            <dd class="col-sm-8">@Model.Apellidos</dd>
+
+            <dt class="col-sm-4">Nombres</dt>
+            <dd class="col-sm-8">@Model.Nombres</dd>
+
+            <dt class="col-sm-4">Fecha Nacimiento</dt>
+            <dd class="col-sm-8">@Model.FechaNacimiento.ToString("dd/MM/yyyy")</dd>
+
+            <dt class="col-sm-4">Correo Electrónico</dt>
+            <dd class="col-sm-8">@Model.Mail</dd>
+
+            <dt class="col-sm-4">Teléfono</dt>
+            <dd class="col-sm-8">@Model.Telefono</dd>
+
+            <dt class="col-sm-4">Dirección</dt>
+            <dd class="col-sm-8">@Model.Direccion</dd>
+
+            <dt class="col-sm-4">Estado</dt>
+            <dd class="col-sm-8">@(Model.Estado ? "Activo" : "Inactivo")</dd>
+        </dl>
+
+        <form asp-action="Delete" method="post">
+            <input type="hidden" asp-for="Codigo" />
+            <button type="submit" class="btn btn-danger">Eliminar</button>
+            <a class="btn btn-secondary" asp-action="Index">
+                <i class="fa-solid fa-arrow-rotate-left"></i> Cancelar
+            </a>
+        </form>
+    </div>
+</div>
